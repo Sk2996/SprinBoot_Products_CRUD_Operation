@@ -3,10 +3,10 @@
 To Run the code please import the project as a Maven project.
 Do a mvn clean and mvn install to get all the dependencies we need to run the code.
 
-Once the dependencies are all loaded run the Application as a Springboot application.
+Once the dependencies are all loaded run the application as a SpringBootApplication.
 
-I have used Swagger to mimic the UI to make the rest calls.
-You can access the Swagger endpoints via the below-mentioned endpoint.
+I used Swagger to alias the UI to make the rest calls.
+You can access the Swagger endpoints via this endpoint.
 http://localhost:8080/swagger-ui.html#/
 
 
