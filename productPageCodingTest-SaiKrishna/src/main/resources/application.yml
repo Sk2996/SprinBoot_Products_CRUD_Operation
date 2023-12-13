@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/productsdatabase-taodigitalcoding
+    username: root
+    password: Mummydaddy@1
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    
+# Swagger configuration for Springboot mvc based application. 
+  mvc:
+    pathmatch:
+      matching-strategy: ant-path-matcher
+#logging:
+#  level:
+#    org.springframework: DEBUG
+ 
