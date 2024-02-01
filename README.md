@@ -1,4 +1,4 @@
-# ProductsCRUD-TAODigitalCodingAssessment
+# Products_CRUD_Operations
 
 To Run the code please import the project as a Maven project.
 Do a mvn clean and mvn install to get all the dependencies we need to run the code.
